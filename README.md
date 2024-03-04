@@ -17,7 +17,7 @@ Welcome to Space Invader, a classic arcade-style game where you take on the role
 ```pip install pygame```  
 
 2. Clone the Repository: Clone the Space Invader repository to your local machine.  
-```git clone https://github.com/your_username/space_invader.git```  
+```git clone https://github.com/azadaliyev44/space_invaders.git```  
  
 3. Run the Game: Execute the main.py file to start the game.  
 ```python main.py ```
