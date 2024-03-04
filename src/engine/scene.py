@@ -1,14 +1,20 @@
 import pygame
 
+
 class Scene:
-    def __init__(self,background):
+    """Representing Screen"""
+    def __init__(self, background):
         self._background = background
-    # | Core | 
-    def update(self,delta_time):
+
+    # | Core |
+    def update(self):
+        """Update Screen"""
         pygame.display.update()
-        pass
-    def setBackgorund(self,color):
+
+    def set_backgorund(self, color):
+        """Set background color"""
         self._background = color
-    def render(self,window):
-        # Reset window
+
+    def render(self, window):
+        """Reset Screen"""
         window.fill(self._background)
