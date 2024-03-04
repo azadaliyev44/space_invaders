@@ -14,7 +14,8 @@ Welcome to Space Invader, a classic arcade-style game where you take on the role
 ## Instructions to Run the Project
 
 1. Install Pygame: Pygame is required to run the game. If you haven't installed Pygame yet, you can install it using pip:  
-```pip install pygame```  
+```pip install pygame``` or  
+```pip install -r requirements.txt```   
 
 2. Clone the Repository: Clone the Space Invader repository to your local machine.  
 ```git clone https://github.com/azadaliyev44/space_invaders.git```  
