@@ -22,5 +22,9 @@ jobs:
           libsdl-mixer1.2-dev libsdl-ttf2.0-dev libsmpeg-dev libportmidi-dev \
           libavformat-dev libswscale-dev
 
+    - name: Install Pygame
+      run: |
+        pip install pygame==2.0.1
+
     - name: Run unit tests
       run: python -m unittest tests.test_methods
