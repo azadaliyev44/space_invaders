@@ -1,27 +1,23 @@
-name: Continuous Integration
+name: Python CI
 
-on: [push, pull_request]
+on:
+  push:
+    branches: [ main ]
 
 jobs:
   build:
     runs-on: ubuntu-latest
-
+    
     steps:
+    - name: Checkout repository
+      uses: actions/checkout@v2
+      
     - name: Set up Python
       uses: actions/setup-python@v2
       with:
-        python-version: '3.12'
-
+        python-version: 3.12
+      
     - name: Install dependencies
       run: |
-        sudo apt update
-        sudo apt install -y python3-dev python3-pip \
-            libsdl2-dev libsdl2-image-dev libsdl2-mixer-dev libsdl2-ttf-dev \
-            libsmpeg-dev libportmidi-dev libavformat-dev libswscale-dev \
-            libjpeg-dev libfreetype6-dev
-
-    - name: Install project dependencies
-      run: pip install -r requirements.txt
-
-    - name: Run tests
-      run: python -m unittest tests.test_game_scene
+        pip install --upgrade pip
+        pip install -r requirements.txt
