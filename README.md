@@ -29,7 +29,7 @@ Welcome to Space Invader, a classic arcade-style game where you take on the role
 Project checked with Flake8 and pylama style check tools.  
 
 ## Class Diagram
-(Class diagram link)[https://github.com/azadaliyev44/space_invaders/blob/main/Class%20Diagram.pdf]  
+(https://github.com/azadaliyev44/space_invaders/blob/main/Class%20Diagram.pdf)[Class diagram link]  
 
 ## License
 
