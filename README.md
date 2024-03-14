@@ -21,7 +21,10 @@ Welcome to Space Invader, a classic arcade-style game where you take on the role
 ```git clone https://github.com/azadaliyev44/space_invaders.git```  
  
 3. Run the Game: Execute the main.py file to start the game.  
-```python main.py ```
+```python main.py ```  
+
+## Style Check
+Project checked with Flake8 and pylama style check tools.  
 
 ## License
 
