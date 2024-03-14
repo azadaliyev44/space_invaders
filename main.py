@@ -5,7 +5,7 @@ from src.game import Game
 pygame.init()
 pygame.display.set_caption("Space Invader (but fake)")
 
-game = Game(500, 750, pygame)
+game = Game(500, 750)
 game.run()
 
 pygame.quit()

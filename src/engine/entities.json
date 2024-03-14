@@ -1,0 +1,38 @@
+[
+    {
+        "title": "DRONE",
+        "texture": "./assets/images/enemy_drone.png",
+        "size": {"width": 80, "height": 40},
+        "initial_health" : 2,
+        "health": 2,
+        "initial_speed" : 200,
+        "speed": 200
+    },
+    {
+        "title": "SPACE_SHIP",
+        "texture": "./assets/images/enemy_space_ship.png",
+        "size": {"width": 80, "height": 80},
+        "initial_health" : 6,
+        "health": 6,
+        "initial_speed" : 50,
+        "speed": 50
+    },
+    {
+        "title": "UFO",
+        "texture": "./assets/images/enemy_ufo.png",
+        "size": {"width": 80, "height": 60},
+        "initial_health" : 4,
+        "health": 4,
+        "initial_speed" : 100,
+        "speed": 100
+    },
+    {
+        "title": "BOSS",
+        "texture": "./assets/images/enemy_boss.png",
+        "size": {"width": 160, "height": 160},
+        "initial_health" : 15,
+        "health": 15,
+        "initial_speed" : 50,
+        "speed": 50
+    }
+]

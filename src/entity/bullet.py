@@ -3,6 +3,7 @@ import pygame
 
 class Bullet:
     """Representing Bullets"""
+
     def init_variables(self):
         """Initialize speed of bullets"""
         self._speed = 500

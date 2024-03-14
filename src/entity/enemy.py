@@ -3,6 +3,7 @@ from src.entity.entity import Entity
 
 class Enemy(Entity):
     """Representing enemies"""
+
     def __init__(self, pos, health, speed, size, texture, border, title):
         super().__init__(pos, health, speed, size, texture, border, title)
 

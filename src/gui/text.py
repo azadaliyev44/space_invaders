@@ -3,6 +3,7 @@ import pygame
 
 class Text:
     """Representing texts on screen"""
+
     def init_text(self):
         """Initialize text on the screen"""
         font = pygame.font.SysFont(self._font_family, self._font_size)
@@ -28,9 +29,6 @@ class Text:
         self._content = value
         self.init_text()
         self.set_position()
-
-    # def update(self, window):
-    #     pass <- to be deleted
 
     def render(self, window):
         """Render the Window"""

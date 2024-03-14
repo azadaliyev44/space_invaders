@@ -3,6 +3,7 @@ import pygame
 
 class HealthBar:
     """Representing healthbar"""
+
     def init_sprite(self):
         """Initialize Sprite of healthbar"""
         self._sprite = pygame.transform.scale(
@@ -28,7 +29,11 @@ class HealthBar:
     def render(self, window):
         """Render healthbar on the screen"""
         offset_x = 5
-        pos_x = (self._pos["x"] - self._health * (self._size["width"] + offset_x)) // 2
+        pos_x = (self._pos["x"] - self._health *
+                 (self._size["width"] + offset_x)) // 2
         pos_y = self._pos["y"]
         for i in range(self._health):
-            window.blit(self._sprite, (pos_x + i * self._size["width"] + offset_x, pos_y))
+            window.blit(
+                self._sprite, (pos_x + i *
+                               self._size["width"] + offset_x, pos_y)
+            )

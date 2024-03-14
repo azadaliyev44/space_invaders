@@ -3,6 +3,7 @@ import pygame
 
 class Scene:
     """Representing Screen"""
+
     def __init__(self, background):
         self._background = background
 

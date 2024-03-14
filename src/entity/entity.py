@@ -3,6 +3,7 @@ import pygame
 
 class Entity:
     """Representing entities"""
+
     def init_variables(self):
         """Initialize position of entities"""
         self._move_pos = {"x": 0, "y": 0}
