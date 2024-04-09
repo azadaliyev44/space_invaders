@@ -31,6 +31,21 @@ Project checked with Flake8 and pylama style check tools.
 ## Class Diagram
 [Class diagram link](https://github.com/azadaliyev44/space_invaders/blob/main/Class%20Diagram.pdf)  
 
+## References  
+shoot.wav - https://mixkit.co/free-sound-effects/gun/ "Short laser gun shot" Under the Mixkit License  
+hp_loss.wav - https://pixabay.com/sound-effects/zap-c-07-82067/ Under the Pixabay Content License  
+game_over.wav - https://mixkit.co/free-sound-effects/arcade/ "Arcade retro game over" Under the Mixkit License  
+boss_dead.wav -https://mixkit.co/free-sound-effects/bomb/ "8-Bit bomb explosion" Under the Mixkit License  
+enemy_dead.wav - https://mixkit.co/free-sound-effects/alerts/ "Explainer video game alert sweep" Under the Mixkit License  
+boss_spawned.wav - https://mixkit.co/free-sound-effects/arcade/ "Boss fight arcade" Under the Mixkit License  
+  
+hp.png - https://www.hiclipart.com/free-transparent-background-png-clipart-ykhzp No attribution required  
+space_ship.png - https://www.hiclipart.com/free-transparent-background-png-clipart-ysbbw No attribution required  
+enemy_space_ship.png https://www.pixilart.com/photo/spaceship-dab5127eb1fe665 Free for personal use  
+enemy_boss.png - https://www.pixilart.com/art/enemy-spaceship-1-662b305c945d606 Free for personal use  
+enemy_drone.png - https://toppng.com/free-image/starfoxx-spaceship-pixel-art-spaceship-PNG-free-PNG-Images_228534 Free for personal use  
+projectile.png - own image  
+  
 ## License
 
 This project is licensed under the MIT License.  
