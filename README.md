@@ -32,12 +32,12 @@ Project checked with Flake8 and pylama style check tools.
 [Class diagram link](https://github.com/azadaliyev44/space_invaders/blob/main/Class%20Diagram.pdf)  
 
 ## References  
-shoot.wav - https://mixkit.co/free-sound-effects/gun/ "Short laser gun shot" Under the Mixkit License  
-hp_loss.wav - https://pixabay.com/sound-effects/zap-c-07-82067/ Under the Pixabay Content License  
-game_over.wav - https://mixkit.co/free-sound-effects/arcade/ "Arcade retro game over" Under the Mixkit License  
-boss_dead.wav -https://mixkit.co/free-sound-effects/bomb/ "8-Bit bomb explosion" Under the Mixkit License  
-enemy_dead.wav - https://mixkit.co/free-sound-effects/alerts/ "Explainer video game alert sweep" Under the Mixkit License  
-boss_spawned.wav - https://mixkit.co/free-sound-effects/arcade/ "Boss fight arcade" Under the Mixkit License  
+shoot.wav - https://mixkit.co/free-sound-effects/gun/ "Short laser gun shot" Under the Mixkit License Free for personal use    
+hp_loss.wav - https://pixabay.com/sound-effects/zap-c-07-82067/ Under the Pixabay Content License Free for personal use  
+game_over.wav - https://mixkit.co/free-sound-effects/arcade/ "Arcade retro game over" Under the Mixkit License Free for personal use  
+boss_dead.wav -https://mixkit.co/free-sound-effects/bomb/ "8-Bit bomb explosion" Under the Mixkit License Free for personal use  
+enemy_dead.wav - https://mixkit.co/free-sound-effects/alerts/ "Explainer video game alert sweep" Under the Mixkit License Free for personal use  
+boss_spawned.wav - https://mixkit.co/free-sound-effects/arcade/ "Boss fight arcade" Under the Mixkit License Free for personal use  
   
 hp.png - https://www.hiclipart.com/free-transparent-background-png-clipart-ykhzp No attribution required  
 space_ship.png - https://www.hiclipart.com/free-transparent-background-png-clipart-ysbbw No attribution required  
