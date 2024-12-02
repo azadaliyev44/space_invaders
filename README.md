@@ -3,13 +3,13 @@ Welcome to Space Invader, a classic arcade-style game where you take on the role
 
 ## Gameplay
 
-*Player Health: You start the game with 3 health points (HP). If an enemy collides with you, you lose 3 HP. Additionally, if an enemy reaches the bottom of the screen, you lose 1 HP.  
+* Player Health: You start the game with 3 health points (HP). If an enemy collides with you, you lose 3 HP. Additionally, if an enemy reaches the bottom of the screen, you lose 1 HP.  
 
-*Enemies: There are 3 types of enemies in the game, each with different health points and speeds. As the levels progress, the HP and speed of enemies increase.  
+* Enemies: There are 3 types of enemies in the game, each with different health points and speeds. As the levels progress, the HP and speed of enemies increase.  
 
-*Levels: There are 3 levels in the game. As you progress through each level, the difficulty increases. The frequency of your shots also increases with each level.  
+* Levels: There are 3 levels in the game. As you progress through each level, the difficulty increases. The frequency of your shots also increases with each level.  
 
-*Boss Fight: At the end of each level, a boss enemy spawns. Once you defeat the boss, you complete the level and progress to the next one.  
+* Boss Fight: At the end of each level, a boss enemy spawns. Once you defeat the boss, you complete the level and progress to the next one.  
 
 ## Instructions to Run the Project
 
